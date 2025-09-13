@@ -17,8 +17,8 @@ It allows users to create short links, manage them, and handle authentication fo
 
 ## 🛠️ Tech Stack
 - **Backend**: Node.js, Express.js  
-- **Database**: MongoDB (Mongoose)  
-- **View Engine**: EJS (if templates are used)  
+- **Database**: MongoDB
+- **View Engine**: EJS  
 - **Authentication**: JWT  
 
 ---
